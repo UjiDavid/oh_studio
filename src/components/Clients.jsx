@@ -24,7 +24,7 @@ const Clients = () => {
       <div className="clients px-2 mx-1 py-2 bg-ash rounded-[100px] font-bold text-[12px]">
         Clients
       </div>
-      <p className="clients mt-[1rem] text-[2rem] leading-[20px] w-[80vw] md:text-[2rem] text-bold text-center md:leading-[30px]">
+      <p className="clients mt-[1rem] text-[2rem] leading-[30px] w-[80vw] md:text-[2rem] text-bold text-center md:leading-[40px]">
         Who I've Worked With
       </p>
       <div className="clients mt-[6rem] w-full grid grid-cols-3 md:grid-cols-4 gap-12 gap-y-24">

@@ -7,8 +7,8 @@ import {
 } from 'react-router-dom';
 import App from './App.jsx';
 import './index.css';
-import Profile from './components/Profile.jsx'; // Assuming your profile component is in Profile.jsx
-import Contact from './components/Contact.jsx'; // Assuming your contact component is in Contact.jsx
+import Profile from './Profile.jsx'; // Assuming your profile component is in Profile.jsx
+import Contact from './Contact.jsx'; // Assuming your contact component is in Contact.jsx
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>

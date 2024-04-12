@@ -61,7 +61,7 @@ const ProfileHero = () => {
         <div className="about px-2 mx-1 py-2 bg-ash rounded-[100px] font-bold text-[12px]">
           About
         </div>
-        <p className="about mt-[1rem] text-[2rem] leading-[20px] w-[60vw] md:text-[2rem] text-bold text-center md:leading-[30px]">
+        <p className="about mt-[1rem] text-[1.5rem] leading-[26px] w-[60vw] md:text-[2rem] text-bold text-center md:leading-[40px]">
           A freelance designer based in the UK. I combine my
           experience in product and brand to solve problems,
           tell stories, and create compelling experiences.

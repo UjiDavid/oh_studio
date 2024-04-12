@@ -1,6 +1,6 @@
-import ActionCalContact from './ActionCalContact';
-import Footer from './Footer';
-import Navbar from './Navbar';
+import ActionCalContact from './components/ActionCalContact';
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
 
 const Contact = () => {
   return (
